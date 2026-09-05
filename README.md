@@ -60,3 +60,4 @@ jobs:
 - `build_flags`: additional flags on top of basic `zola build`
 - `check_links`: defaults to `false`, whether to run `zola check` before `zola build`
 - `check_flags`: additional flags on top of basic `zola check`
+- `include_hidden_files`: defaults to `false`, whether to include hidden files and directories
